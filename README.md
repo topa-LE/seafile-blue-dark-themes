@@ -48,4 +48,4 @@ Have Fun ;-)
 
 <img src="https://github.com/topa-LE/seafile_blue_dark_themes/blob/master/Screenshots/screen-6.png?raw=true" alt="Folder" style="max-width:100%;" width="400">
 
-<pre>You can find more screens in the folder: <a href="https://github.com/topa-LE/seafile-Blue-Dark-Theme/tree/master/Screenshots">Screenshots</a></pre>
+<pre>You can find more screens in the folder: <a href="https://github.com/topa-LE/seafile_blue_dark_themes/tree/master/Screenshots">Screenshots</a></pre>
