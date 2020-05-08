@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% load i18n %}
+
+{% block sub_title %}{% trans "Log Out" %} - {% endblock %}
+
+{% block main_content %}
+<div class="text-panel">
+<!-- tpDEsign -->
+<p class="text-logout-color">{% trans "Thanks for your participation! " %}</p>
+<br>
+<a href="{{ SITE_ROOT }}accounts/login/">{% trans "Log in again" %}</a>
+</div>
+{% endblock %}
