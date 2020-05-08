@@ -7,7 +7,7 @@ Switch to user <code>seafile</code> and create the folder <strong>custom</strong
 <pre>
 <code>sudo su seafile</code>
 <code>cd</code>
-<code>mkdir /home/seafile/sea-hub/custom</code>
+<code>mkdir /home/seafile/seahub-data/custom</code>
 <code>mkdir /home/seafile/seahub-data/img</code>
 </pre>
 
