@@ -83,6 +83,43 @@ font-size: 20px;
 color: #fff;
 }
 
+.shared-dir-view-main {
+max-width: 999px;
+}
+
+.shared-dir-view-main p {
+color: #fb9e56;
+}
+
+.shared-file-view-body {
+height: calc(100% - 60px);
+padding: 30px 0 15px;
+background: #16212f;
+border: 1px solid #0e1621;
+overflow: auto;
+}
+
+.video-js {
+display: block;
+vertical-align: top;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+color: #fff;
+background-color: #0e1621;
+border-radius: 5px;
+border: 1px solid #000;
+box-shadow: 1px 1px 10px 1px #01070d;
+position: relative;
+padding: 0;
+margin: 10px;
+font-size: 13px;
+line-height: 1;
+font-weight: 400;
+font-style: normal;
+font-family: 'Saira Condensed', Arial, Helvetica, sans-serif;
+word-break: normal;
+}
+
 #viewerContainer {
 background: #16212f;
 }
