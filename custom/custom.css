@@ -2,6 +2,11 @@
 *** Developer tpDEsign 2020
 */
 
+/*
+@import url('https://fonts.googleapis.com/css?family=Play&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&display=swap');
+*/
+
 body {
 margin: 0;
 font-family: 'Saira Condensed', 'Play', Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -983,6 +988,10 @@ color: #fff;
 
 .col-form-label {
 font-size: 17px;
+}
+
+input.expire-input {
+margin: -4px 0.25rem 0px -0.75rem;
 }
 
 .wide-panel {
