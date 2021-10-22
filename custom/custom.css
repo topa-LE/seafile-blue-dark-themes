@@ -984,3 +984,14 @@ color: #fff;
 .col-form-label {
 font-size: 17px;
 }
+
+.wide-panel {
+width: 930px;
+padding: 12px 12px 15px;
+border: 1px solid #fb9e56;
+border-radius: 5px;
+margin: 2em auto 0;
+background-color: #16212f;
+color: #fff;
+font-size: 21px;
+}
